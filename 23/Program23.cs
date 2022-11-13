@@ -18,3 +18,4 @@ for (i=1; i<=num; i++)
     Console.WriteLine($"{i},{cub}");
 }
 
+//kkk
